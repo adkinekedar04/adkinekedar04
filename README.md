@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Kedar</h1>
 
-- 🔭 I’m currently working on **Javascript projects**
-
 - 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **adkinekedar04@gmail.com**
